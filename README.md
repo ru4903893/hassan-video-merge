@@ -1,6 +1,9 @@
-# Telegram Video Merge Bot
+# Telegram Video Merge Bot Pro
+Supports:
+✔ Normal merge  
+✔ Side-by-side merge  
+✔ Vertical merge  
+✔ Multi-video concat  
 
-This bot merges two videos using FFmpeg and returns a single merged file.
-
-## Run locally:
+## Local Run
 BOT_TOKEN=your_token python bot.py
