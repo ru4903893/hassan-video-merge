@@ -1,1 +1,2 @@
+# Future FFmpeg helper functions
 
