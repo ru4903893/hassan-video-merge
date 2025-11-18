@@ -1,2 +1,2 @@
-# Future FFmpeg helper functions
-
+def debug(cmd):
+    print("Running:", cmd)
