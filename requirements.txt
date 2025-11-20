@@ -1,8 +1,5 @@
-pyrogram==2.0.106
-tgcrypto
+aiogram==3.4.1
+aiohttp==3.9.5
+python-dotenv
 ffmpeg-python
 moviepy
-Pillow
-aiofiles
-python-dotenv
-requests
